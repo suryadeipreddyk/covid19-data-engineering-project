@@ -3,6 +3,8 @@
 ## Project Overview
 This project focuses on building a scalable **data engineering pipeline** for processing and analyzing COVID-19 data using **AWS services**. The data is ingested from an AWS-managed data lake, preprocessed, and structured for analytical use.
 
+For a detailed breakdown of the project, visit the [COVID19 Data Engineering Documentation](https://devengine.notion.site/COVID19-Data-Engineering-Project-18632fa5808880d289edda50b8c5f857).
+
 ## Architecture Overview
 The AWS-based data pipeline consists of the following stages:
 1. **Data Ingestion**: Data is obtained from an AWS-managed data lake and stored in **Amazon S3**.
