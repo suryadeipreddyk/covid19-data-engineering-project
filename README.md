@@ -18,6 +18,8 @@ The AWS-based data pipeline consists of the following stages:
    - **IAM roles** and policies ensure secure access to AWS services.
 5. **Analytics & Reporting**: The final structured data is used for querying.
 
+![Alt Text](https://github.com/suryadeipreddyk/covid19-data-engineering-project/blob/main/Covid%20Data%20Engineering%20Architecture.jpeg)
+
 ## Tools & Technologies
 - **AWS Services**: S3, Glue, Athena, Redshift, IAM
 - **Programming**: Python (for ETL scripts using boto3)
